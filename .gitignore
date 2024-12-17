@@ -1,3 +1,10 @@
+# Manual
+.winenv
+*.xlsx
+config_email.yaml
+TMP/*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -1,0 +1,6 @@
+imap_server: "imap.gmail.com"
+email: "email@gmail.com"
+password: "password"
+output_excel: "output_email_data.xlsx"
+input_excel: "input_email_data.xlsx"
+exclude_folders: []
